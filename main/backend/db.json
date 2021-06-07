@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta Bic Preta",
+      "prece": 5.78
+    },
+    {
+      "id": 2,
+      "name": "Mesa preta",
+      "prece": 400.45
+    },
+    {
+      "id": 3,
+      "name": "Noltebook Mac",
+      "prece": 12000
+    },
+    {
+      "name": "Computador DELL",
+      "preci": "5000",
+      "id": 4
+    },
+    {
+      "name": "sansuggg Galaxy 9",
+      "preci": "30000",
+      "id": 5
+    }
+  ]
+}
